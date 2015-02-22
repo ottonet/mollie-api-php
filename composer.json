@@ -4,6 +4,7 @@
     "description": "Mollie API client library for PHP",
     "homepage": "https://github.com/mollie/mollie-api-php",
     "license": "BSD-2-Clause",
+    "type": "magento-module",
     "authors": [
         {
             "name": "Mollie B.V.",
